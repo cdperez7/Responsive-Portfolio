@@ -259,6 +259,7 @@ input[type=submit] {
 
     header div{
         margin-left: 0;
+        position: static;
     }
 
     header h1{
